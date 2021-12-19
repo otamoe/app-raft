@@ -1,0 +1,7 @@
+package main
+
+import appraft "github.com/otamoe/app-raft"
+
+func main() {
+	appraft.New()
+}
